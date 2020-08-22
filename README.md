@@ -69,9 +69,9 @@ The recommended method is to use [ModMoon](https://github.com/Swiftloke/ModMoon)
 - Hold Select while booting your 3DS and enable game patching in the Luma configuration menu.
 - On your SD card, put the `000400000003XX00` folder into `3ds/ModMoon/`
 - Rename the **XX** in the folder name to match the TitleID of your game:
-- USA = 0004000000035800
-- EUR = 0004000000033B00
-- JPN = 0004000000032800
+- USA = 000400000003**58**00
+- EUR = 000400000003**3B**00
+- JPN = 000400000003**28**00
 - Inside that folder, change the *X* in `Slot_X` to any number (i.e. "Slot_1", "Slot_2")
 - Insert your SD card, restart the system, and select the mod in ModMoon.
 
