@@ -59,7 +59,59 @@ Starting Grid song: Spiral Ahead
 *No changes* (I haven't unlocked it yet so it's not worth replacing at the moment)
 
 ## No Backseat Driving
-I found the commentary while racing to be childish and rather annoying, so instead of turning the voices off in the settings I just replaced all the driving voice clips to be empty.  You can edit it by deleting which ones you want to play since I didn't have time to listen and mark what each were saying.
+I found the commentary while racing to be kind of childish and rather annoying, so instead of turning the voices off in the settings I decided to just replaced all the voice clips to be empty.  You can edit it by deleting which ones you want to play since I didn't have time to listen and mark what each were saying.
+
+## Inital D
+The opening movie has been replaced with [this video](https://www.youtube.com/watch?v=pqOBO0OMaQQ)
+
+**Track Listing**:
+
+Starting Grid song: Initial D Arcade Stage -Stage Select 
+
+**Disc 1**
+1. Running in the 90s
+2. Deja Vu
+3. GAS GAS GAS
+4. Speedy Speed Boy
+5. The Top
+
+**Disc 2**
+1. Futureland
+2. Forever Young
+3. New Horizon
+4. Don't Stand So Close To Me
+5. Don't Stop The Music
+
+**Disc 3**
+1. No One Sleeps In Tokyo
+2. Take Me Back To Tokyo
+3. Beat Of The Raising Sun
+4. Golden Age
+5. Wings Of Fire
+
+**Disc 4**
+1. Night Of Fire
+2. Night & Day
+3. Maybe Tonite
+4. Lost In The Night
+5. Stormy Night
+
+**Disc 5**
+1. Heartbeat
+2. Remember Me
+3. Killing My love
+4. Save Me
+5. Burning Up For You
+
+**Disc 6**
+1. Dancing
+2. Back On The Rocks
+3. Black Out
+4. Grand Prix
+5. Crazy For Love
+
+**Disc SP**
+*No changes*
 
 ## How To Install
 **You will need an application that can extract `.7z` files**
