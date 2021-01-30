@@ -143,3 +143,5 @@ If you're having troubles with ModMoon look [here](https://gbatemp.net/threads/m
 
 Alternatively you can repack the RomFS folder into the game to save some space, however I don't know of a good guide for that.
 
+# Credit
+* Looping Audio Converter was mainly used to convert the files, specifically [version 1.3](https://www.lakora.us/brawl/loopingaudioconverter/) 
