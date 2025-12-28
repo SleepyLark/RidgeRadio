@@ -1,6 +1,21 @@
 # RidgeRadio
 Replace the music for "Ridge Racer 3D" on the 3DS with other audio
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Mods](#mods)
+    * [R4: Ridge Racer Type 4 OST](#r4-ridge-racer-type-4-ost)
+    * [No Backseat Driving](#no-backseat-driving)
+    * [Inital D](#inital-d)
+    * [High Octane Mix](#high-octane-mix)
+3. [How To Install](#how-to-install)
+    * [Luma3DS](#luma3ds)
+    * [Azahar and Citra forks](#azahar-and-compatible-citra-forks)
+4. [How To Create Your Own Mod](#how-to-create-your-own-mod)
+5. [Credit](#credit)
+
+---
+
 ## Overview
 I've been playing this game a lot recently, but personally didn't like the soundtrack as much, so I made some mods that replace the audio with songs that I like.
 
@@ -117,7 +132,7 @@ Starting Grid song: Initial D Arcade Stage -Stage Select
 *No changes*
 
 ## High Octane Mix
-A personal mix of songs that I liked in the year 2025. Originally intended to be just songs by SAM WAITIN but later expanded to Rally House and high-energy songs. [You can listen to them all here](https://youtube.com/playlist?list=PL41rttc2_pfcgrl8ZeQvVA8R--EXR5tWE&si=1ZaVmB8B796HlL7H).
+A personal mix of songs that I liked in the year 2025. Originally intended to be just songs by SAM WAITIN but later expanded to Rally House and high-energy songs. [You can listen to them all here](https://youtube.com/playlist?list=PL41rttc2_pfcgrl8ZeQvVA8R--EXR5tWE&si=1ZaVmB8B796HlL7H) as well as some other songs that got cut.
 
 The opening movie has been replaced with [this video](https://www.youtube.com/watch?v=fq16RLLLECQ) with the audio replaced with ["No More" by Shy Cookie](https://www.youtube.com/watch?v=Kr0ZNCxG2aU)
 
