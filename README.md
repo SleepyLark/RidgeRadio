@@ -137,7 +137,9 @@ A personal mix of songs that I liked in the year 2025. Originally intended to be
 The opening movie has been replaced with [this video](https://www.youtube.com/watch?v=fq16RLLLECQ) with the audio replaced with ["No More" by Shy Cookie](https://www.youtube.com/watch?v=Kr0ZNCxG2aU)
 
 **Track Listing**:
+
 Starting Grid: "I'm Not Gonna Let (Shuffle Inc) -Looped-" by Colonel Abrams
+
 **Disc 1**
 1. No More - Shy Cookie
 2. Energy - Higgo
@@ -209,14 +211,14 @@ If you're having troubles with ModMoon look [here](https://gbatemp.net/threads/m
 - Insert your SD card, restart the system, and changes should take place when you launch the game.
 
 ### Azahar and compatible Citra forks
-- put the RomFS folder from `000400000003XX00/Slot_X/` in "%AppData%\Azahar\load\mods\000400000003**XX**00" (by default on Windows) to apply the mod in Azahar. You may have to manually create the `load/mods` folder if it doesn't show up right-click the game in Azahar to open the mod folder. 
+- Put the RomFS folder from `000400000003XX00/Slot_X/` in "%AppData%\Azahar\load\mods\000400000003**XX**00" (by default on Windows) to apply the mod in Azahar. You may have to manually create the `load/mods` folder if it doesn't show up right-click the game in Azahar to open the mod folder. 
 
 Alternatively you can repack the RomFS folder into the game to save some space, however I don't know of a good guide for that.
 
 ## How To Create Your Own Mod
 I'm working on a more in-depth tutorial, but for now here's the song listing for the game if you wanted to make your own: [Google Sheets](https://docs.google.com/spreadsheets/d/1tvWAFrt8B4A_8jrB4CWcYzXcr7xbu70iIZDO5uSWQ-g/edit?usp=sharing)
 
-`bcstm_looper.py` is a Python script I made using Gemini 3 since I messed up converting my files to loop and was too lazy to download another tool to fix them. All it does is hex-edit the file header to set the correct values needed for loop playback. In theory, it should work with any `BCSTM` file, but there are probably better tools than this.
+`bcstm_looper.py` is a Python script I made using Gemini 3 since I messed up converting my files to loop and was too lazy to download another tool to fix them. All it does is hex-edit the file header to set the correct values needed for loop playback. In theory, it should work with any `BCSTM` file, but there are probably better tools than this. I included it just in case it might be helpful to others.
 
 # Credit
 * Looping Audio Converter was mainly used to convert the files, specifically [version 1.3](https://www.lakora.us/brawl/loopingaudioconverter/)
