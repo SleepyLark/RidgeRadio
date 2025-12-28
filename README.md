@@ -2,7 +2,7 @@
 Replace the music for "Ridge Racer 3D" on the 3DS with other audio
 
 ## Overview
-I've been playing this game a lot recently, but personally didn't like the soundtrack as much, so I replaced it with one that many people adore: "**R4: Ridge Racer Type 4**".
+I've been playing this game a lot recently, but personally didn't like the soundtrack as much, so I made some mods that replace the audio with songs that I like.
 
 ## Mods
 ## R4: Ridge Racer Type 4 OST
