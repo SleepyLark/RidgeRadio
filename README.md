@@ -211,7 +211,7 @@ If you're having troubles with ModMoon look [here](https://gbatemp.net/threads/m
 - Insert your SD card, restart the system, and changes should take place when you launch the game.
 
 ### Azahar and compatible Citra forks
-- Put the RomFS folder from `000400000003XX00/Slot_X/` in "%AppData%\Azahar\load\mods\000400000003**XX**00" (by default on Windows) to apply the mod in Azahar. You may have to manually create the `load/mods` folder if it doesn't show up right-click the game in Azahar to open the mod folder. 
+- Put the RomFS folder from `000400000003XX00/Slot_X/` in "%AppData%\Azahar\load\mods\000400000003**XX**00" (by default on Windows) to apply the mod in Azahar. You may have to manually create the `load/mods` folder if it doesn't show up, or right-click on the game in Azahar to open the mod folder. 
 
 Alternatively you can repack the RomFS folder into the game to save some space, however I don't know of a good guide for that.
 
